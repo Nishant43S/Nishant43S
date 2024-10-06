@@ -61,7 +61,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="300" width="360" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="500" width="360" alt="streak graph"  />
 </div>
 
 ###
