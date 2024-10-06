@@ -16,12 +16,8 @@
 
 ###
 
-<img align="right" height="160" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"/>
+<img align="right" height="180" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"/>
 
 ###
 
 
-
-<img src="https://raw.githubusercontent.com/nishant43s/nishant43s/output/snake.svg" alt="Snake animation" />
-
-###
