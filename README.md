@@ -1,7 +1,6 @@
 ![Nishant Maity](https://github.com/user-attachments/assets/c2d53634-aeef-469c-858c-43c83b66127e)
 
 
-
 # Welcome to My GitHub Profile! 👋
 
 <p style="font-size: 20px; line-height: 1.6; text-align: justify;">
@@ -48,6 +47,7 @@ Feel free to connect:
 <!-- Add hover effect -->
 <style>
 .hover-effect:hover {
-    color: palegreen;
+    color: #6643b5;
+    cursor: pointer;
 }
 </style>
