@@ -95,6 +95,34 @@
   </a>
 </div>
 
+##
+
+- 🔭 Recently i worked on [GenerativeAi Summarizer](https://nishant43s-genai-summarizer.hf.space/)
+
+- 🌱 I’m currently learning **Generative Ai**
+
+- 👨‍💻 Know about me on [portfolio](https://nishant-maity.streamlit.app/)
+
+- 💬 Ask me about **Python,Machine Learning,Generative Ai**
+
+- 📫 How to reach me **nishantmaity3627@gmail.com**
+
+
+##
+
+
+<h3 >🔥 My Stats </h3>
+
+<br>
+
+
+
+
+
+
+
+
+
 
 
 
