@@ -1,6 +1,8 @@
 ![Nishant Maity](https://github.com/user-attachments/assets/c2d53634-aeef-469c-858c-43c83b66127e)
 
 ![wipe 2](https://github.com/user-attachments/assets/334d03f5-6415-45f6-a20d-cbc9c2cd7536)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant43s&label=Profile%20views&color=0e75b6&style=flat" alt="nishant43s" /> </p>
   
 <h2  align="left">Hi 👋! My name is Nishant Maity, I am a python specialist</h2>
 
