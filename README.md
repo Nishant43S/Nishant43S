@@ -1,12 +1,8 @@
 ![Nishant Maity](https://github.com/user-attachments/assets/c2d53634-aeef-469c-858c-43c83b66127e)
 
 ![wipe 2](https://github.com/user-attachments/assets/334d03f5-6415-45f6-a20d-cbc9c2cd7536)
-
-
-
-
   
-<h2 align="left">Hi 👋! My name is Nishant Maity, I am a python specialist</h2>
+<h2 style="margin-top: 333px;" align="left">Hi 👋! My name is Nishant Maity, I am a python specialist</h2>
 
 
 ###
