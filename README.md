@@ -15,3 +15,22 @@
 </div>
 
 ###
+
+<br>
+
+###
+
+<div clear="right" align="left">
+
+<h3 >🔥   My Stats :</h3>
+
+<br>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=nishant43s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+</div>
+
+
+</div>
+
+###
