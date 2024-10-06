@@ -2,33 +2,52 @@
 
 
 
-<h1>Hi 👋, I'm Nishant Maity</h1>
-<p>python specialist || Building Tomorrow with Generative AI & ML </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/Nishant43S?t=QSzp8GbZYJ2_s6a3F1kahw&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nishant-maity/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/invites/contact/?igsh=18v15zzwabz7i&utm_content=m95jbmo" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant43s&show_icons=true&locale=en" alt="Nishant43s" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant43s&" alt="Nishant43s" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishant43s&show_icons=true&locale=en&layout=compact" alt="Nishant43s" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nishant43s" alt="Nishant43s" /></a></p>
-el="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+# Welcome to My GitHub Profile! 👋
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant43s&show_icons=true&locale=en&layout=compact" alt="nishant43s" /></p>
+<p style="font-size: 20px; line-height: 1.6; text-align: justify;">
+    Hi, I'm <strong>Nishant Maity</strong>, a <span class="hover-effect" style="color: #000; transition: color 0.3s;">Python specialist</span> 
+    with a passion for <span class="hover-effect" style="color: #000; transition: color 0.3s;">generative AI</span> and 
+    <span class="hover-effect" style="color: #000; transition: color 0.3s;">machine learning</span>. I'm skilled in a range of Python libraries, 
+    including <span class="hover-effect" style="color: #000; transition: color 0.3s;">NumPy</span>, 
+    <span class="hover-effect" style="color: #000; transition: color 0.3s;">Pandas</span>, and 
+    <span class="hover-effect" style="color: #000; transition: color 0.3s;">Matplotlib</span>, and have experience in building both desktop and web 
+    applications using <span class="hover-effect" style="color: #000; transition: color 0.3s;">Tkinter</span> and 
+    <span class="hover-effect" style="color: #000; transition: color 0.3s;">Streamlit</span>. 
+    My expertise also extends to <span class="hover-effect" style="color: #000; transition: color 0.3s;">web development</span>, where I create 
+    responsive and visually appealing websites.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant43s&show_icons=true&locale=en" alt="nishant43s" /></p>
+<p style="font-size: 20px; line-height: 1.6; text-align: justify;">
+    I'm deeply interested in <span class="hover-effect" style="color: #000; transition: color 0.3s;">prompt engineering</span>, ensuring AI models 
+    deliver accurate and relevant outputs. As a consistent programmer and continuous learner, I stay updated with the latest technologies and 
+    Python libraries, always looking to enhance my skill set.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant43s&" alt="nishant43s" /></p>
+<p style="font-size: 20px; line-height: 1.6; text-align: justify;">
+    My career aspiration is to work with top-tier companies like 
+    <span class="hover-effect" style="color: #000; transition: color 0.3s;">Microsoft</span>, 
+    <span class="hover-effect" style="color: #000; transition: color 0.3s;">Google</span>, or 
+    <span class="hover-effect" style="color: #000; transition: color 0.3s;">Amazon</span>, where I can contribute to innovative projects and help 
+    shape the future of technology.
+</p>
+
+## 💻 Tech Stack
+- Python (NumPy, Pandas, Matplotlib)
+- Tkinter, Streamlit
+- HTML, CSS, JavaScript
+- Web Development
+
+## 🛠️ Projects
+- [Project 1](#)
+- [Project 2](#)
+
+## 📫 Contact
+Feel free to connect:  
+[LinkedIn](#) | [Twitter](#) | [Email](mailto:nishant.maity@example.com)
+
+<!-- Add hover effect -->
+<style>
+.hover-effect:hover {
+    color: palegreen;
+}
+</style>
