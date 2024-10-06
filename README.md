@@ -4,7 +4,6 @@
   
 <h2  align="left">Hi 👋! My name is Nishant Maity, I am a python specialist</h2>
 
-##
 
 <h3>👨‍🎓 About Me</h3>
 
