@@ -4,40 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant43s&label=Profile%20views&color=0e75b6&style=flat" alt="nishant43s" /> </p>
   
-<h2  align="left">Hi 👋! My name is Nishant Maity, I am a python specialist</h2>
+<h2  align="left">Hi 👋! My name is Nishant Maity, I am a python specialist.</h2>
 
 
 <h3>👨‍🎓 About Me</h3>
 
 <p>Hi, I'm Nishant Maity, a Python specialist with a passion for generative AI and machine learning. I'm skilled in a range of Python libraries, including NumPy, Pandas, and Matplotlib, and have experience in building both desktop and web applications using Tkinter and Streamlit. My expertise also extends to web development, where I create responsive and visually appealing websites.</p>
 
+##
 
+- 🔭 Recently i worked on [GenerativeAi Summarizer](https://nishant43s-genai-summarizer.hf.space/)
 
-###
+- 🌱 I’m currently learning **Generative Ai**
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nishant43s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+- 👨‍💻 Know about me on [portfolio](https://nishant-maity.streamlit.app/)
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant43s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 💬 Ask me about **Python,Machine Learning,Generative Ai**
 
-###
-
-<br>
-
-###
-
-<div clear="right" align="left">
-
-<h3 >🔥   My Stats :</h3>
-
-<br>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=nishant43s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
-</div>
-
-
-</div>
-
-###
+- 📫 How to reach me **nishantmaity3627@gmail.com**
