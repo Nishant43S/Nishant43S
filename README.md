@@ -3,7 +3,9 @@
 ![wipe 2](https://github.com/user-attachments/assets/334d03f5-6415-45f6-a20d-cbc9c2cd7536)
   
 <h2  align="left">Hi 👋! My name is Nishant Maity, I am a python specialist</h2>
+
 ##
+
 <h3>👨‍🎓 About Me</h3>
 
 <p>Hi, I'm Nishant Maity, a Python specialist with a passion for generative AI and machine learning. I'm skilled in a range of Python libraries, including NumPy, Pandas, and Matplotlib, and have experience in building both desktop and web applications using Tkinter and Streamlit. My expertise also extends to web development, where I create responsive and visually appealing websites.</p>
