@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant43s&label=Profile%20views&color=0e75b6&style=flat" alt="nishant43s" /> </p>
   
-<h1  align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> ! My name is Nishant, I am a python specialist.</h1>
+<h1  align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> ! My name is Nishant, I am a python Developer.</h1>
 
 
 <h3>👨‍🎓 About Me</h3>
