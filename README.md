@@ -117,8 +117,7 @@
 
 
 
-<div align="left">   
-   &nbsp; &nbsp;
+<div align="left"> 
     <img align="right" style="margin-right: 125px" src="https://i.pinimg.com/originals/cb/b5/25/cbb525f36ed5bb65e24118a96e174673.png" height="156"/>  
 
 
