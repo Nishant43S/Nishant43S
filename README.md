@@ -15,7 +15,7 @@
 
 
 ###
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" height="135">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" height="139">
 
 <h3 align="left">🛠 My Skill Set</h3>
 
