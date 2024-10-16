@@ -121,14 +121,14 @@
     <img align="right" style="margin-right: 125px" src="https://i.pinimg.com/originals/cb/b5/25/cbb525f36ed5bb65e24118a96e174673.png" height="156"/>  
 
 
-  <img  src="https://streak-stats.demolab.com?user=nishant43s&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img  src="https://streak-stats.demolab.com?user=nishant43s&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 
 
 
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant43s&show_icons=true&theme=tokyonight&hide_border=true) &ensp;  &ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant43s&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant43s&show_icons=true&theme=tokyonight&hide_border=true) &ensp;  &ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant43s&layout=donut&theme=tokyonighthide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
