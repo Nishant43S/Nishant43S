@@ -78,7 +78,7 @@
 
 ##
 
-- 🔭 Recently i worked on [GenerativeAi Summarizer](https://nishant43s-genai-summarizer.hf.space/)
+- 🔭 Recently i worked on [File Link Generator](https://file-link-generator-major-project.onrender.com/)
 
 - 🌱 I’m currently learning **Generative Ai**
 
